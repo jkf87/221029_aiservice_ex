@@ -491,9 +491,8 @@ input:checked + label > .knob > i:before {
   transform: rotate(134deg);
 }
 
-.ad-banner {
-    width: 320px;
-    margin: 0 auto;
+.adfit {
+    margin:0 auto;
 }
 .url{
   transform-origin: 0.5;
